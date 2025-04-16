@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nary</h1>
 <h3 align="center">A passionate Software Engineer / Data Scientist from Taiwan</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=machichima&label=Profile%20views&color=0e75b6&style=flat" alt="machichima" />
-</p>
-
 - 📄 Portfolio: [machichima.github.io/nary-portfolio](https://machichima.github.io/nary-portfolio/)
 - 💻 My [contributions](https://github.com/search?q=is%3Apr+author%3Amachichima+org%3Aflyteorg&type=pullrequests) to open source project [Flyte](https://github.com/flyteorg)
 - 🔭 Currently building a [version control system in Go](https://github.com/machichima/vcs-go)
