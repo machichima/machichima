@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer / Data Scientist from Taiwan</h3>
 
 - 📄 Portfolio: [machichima.github.io/nary-portfolio](https://machichima.github.io/nary-portfolio/)
-- 💻 My [contributions](https://github.com/search?q=is%3Apr+author%3Amachichima+org%3Aflyteorg&type=pullrequests) to open source project [Flyte](https://github.com/flyteorg)
+- 💻 My open source contributions to [Ray](https://github.com/ray-project) ([view PRs](https://github.com/search?q=is%3Apr+author%3Amachichima+org%3Aray-project&type=pullrequests)) and [Flyte](https://github.com/flyteorg) ([view PRs](https://github.com/search?q=is%3Apr+author%3Amachichima+org%3Aflyteorg&type=pullrequests))
 - 🔭 Currently building a [version control system in Go](https://github.com/machichima/vcs-go)
 - 👯 Created a Neovim plugin: [image-view.nvim](https://github.com/machichima/image-view.nvim)
 - 🌱 Learning **Go** and digging deeper into system design & backend infra
