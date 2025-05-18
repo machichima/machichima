@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nary</h1>
+<h1 align="center">Hi <img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Hi.gif" width="29px">, I'm Nary</h1>
 <h3 align="center">A passionate Software Engineer / Data Scientist from Taiwan</h3>
 
 - 📄 Portfolio: [machichima.github.io/nary-portfolio](https://machichima.github.io/nary-portfolio/)
