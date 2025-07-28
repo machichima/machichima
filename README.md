@@ -58,18 +58,10 @@
   <table>
     <tr>
       <td align="center">
-        <a href="https://gitroll.io/profile/ulxyAUTuh2neHEI5Vdy0bIpSxfdy1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ulxyAUTuh2neHEI5Vdy0bIpSxfdy1?theme=nord" alt="GitRoll Profile Badge" width="500"/></a>
-      </td>
-      <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=machichima&theme=github_dark_dimmed" alt="GitHub Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=machichima&theme=github_dark_dimmed&show_icons=true" alt="GitHub Stats" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=machichima&theme=github_dark_dimmed&langs_count=10&layout=compact" alt="Top Languages" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=machichima&theme=github_dark_dimmed" alt="GitHub Streak" />
       </td>
     </tr>
     
