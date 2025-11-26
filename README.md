@@ -1,9 +1,11 @@
 <h1 align="center">Hi <img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Hi.gif" width="29px">, I'm Nary</h1>
-<h3 align="center">A passionate Software Engineer / Data Scientist from Taiwan</h3>
+<h3 align="center">A passionate Software Engineer from Taiwan</h3>
 
 - 📄 Portfolio: [machichima.github.io/nary-portfolio](https://machichima.github.io/nary-portfolio/)
-- 💻 My open source contributions to [Ray](https://github.com/ray-project) ([view PRs](https://github.com/search?q=is%3Apr+author%3Amachichima+org%3Aray-project&type=pullrequests)) and [Flyte](https://github.com/flyteorg) ([view PRs](https://github.com/search?q=is%3Apr+author%3Amachichima+org%3Aflyteorg&type=pullrequests))
-- 🔭 Currently building a [version control system in Go](https://github.com/machichima/vcs-go)
+- ❤️ Love Neovim and Tmux
+- 💻 My open source contributions to
+    - [Ray](https://github.com/ray-project) ([My PRs](https://github.com/search?q=is%3Apr+author%3Amachichima+org%3Aray-project&type=pullrequests) / [Reviewed PRs](https://github.com/search?q=is:pr+reviewed-by:machichima+org:ray-project&type=pullrequests))
+    - [Flyte](https://github.com/flyteorg) ([My PRs](https://github.com/search?q=is%3Apr+author%3Amachichima+org%3Aflyteorg&type=pullrequests) / [Reviewed PRs](https://github.com/search?q=is:pr+reviewed-by:machichima+org:flyteorg&type=pullrequests))
 - 👯 Created a Neovim plugin: [image-view.nvim](https://github.com/machichima/image-view.nvim)
 - 🌱 Learning **Go** and digging deeper into system design & backend infra
 
