@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Software Engineer from Taiwan</h3>
 
 - 📄 Portfolio: [machichima.github.io/nary-portfolio](https://machichima.github.io/nary-portfolio/)
+- 📰 Blog: https://open-infra-learning.github.io/blog/authors/naryyeh/
 - ❤️ Love Neovim and Tmux
 - 💻 My open source contributions to
     - [Ray](https://github.com/ray-project) ([My PRs](https://github.com/search?q=is%3Apr+author%3Amachichima+org%3Aray-project&type=pullrequests) / [Reviewed PRs](https://github.com/search?q=is:pr+reviewed-by:machichima+org:ray-project&type=pullrequests))
