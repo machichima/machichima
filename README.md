@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Hi.gif" width="29px">, I'm Nary</h1>
 <h3 align="center">A passionate Software Engineer from Taiwan</h3>
 
-- 📄 Resume: [PDF link](https://drive.google.com/file/d/1xqRU8oqsVlfuYVWnIoWQ5PCmIZFji-9b/view?usp=sharing)
+- 📄 Resume: [PDF link](https://drive.google.com/file/d/1wSUseNHcahW-kJMpV2ESHVMtx3NDvz5P/view?usp=sharing)
 - 📰 Blog: https://open-infra-learning.github.io/blog/authors/naryyeh/
 - ❤️ Love Neovim and Tmux
 - 💻 My open source contributions to
